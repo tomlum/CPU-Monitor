@@ -1,5 +1,7 @@
 # CPU Monitor
 
+![Uploading output22.gif…]()
+
 ## Getting Up and Running
 
 Run `yarn` and `yarn start` for both `cpu-mon-frontend` and `cpu-mon-backend`
