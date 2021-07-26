@@ -1,6 +1,6 @@
 # CPU Monitor
 
-![Uploading output22.gif…]()
+![cpumon](https://user-images.githubusercontent.com/8650767/126920458-930f06b9-3e0b-4b88-a24d-e4064a324256.gif)
 
 ## Getting Up and Running
 
